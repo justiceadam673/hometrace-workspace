@@ -1,0 +1,324 @@
+ @media(max-width:768px){
+    nav{
+        display: none;
+    }
+    .homediv{
+        display: none;
+    }
+    .welcomeback{
+        width: 239px;
+height: 33px;
+angle: 0 deg;
+opacity: 1;
+top: 63px;
+left: 16px;
+font-family: Poppins;
+font-weight: 600;
+font-size: 22px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+
+    }
+    .text2{
+        width: 311px;
+height: 12px;
+angle: 0 deg;
+opacity: 1;
+top: 96.19px;
+left: 16px;
+font-family: Nunito;
+font-weight: 400;
+font-style: Regular;
+font-size: 9px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+
+    }
+    .texts{
+display: block;
+
+ }
+ .text3{
+    width: 328.94px;
+  height: 92.0436782836914px;
+top: -4.17px;
+margin-top: 10px;
+
+
+ }
+ .text4{
+    width: 328.94px;
+  height: 92.0436782836914px;
+top: -4.17px;
+
+ }
+ .text31{
+    width: 164.4714813232422px;
+height: 92.0436782836914px;
+angle: 0 deg;
+opacity: 1;
+top: -4.17px;
+margin: 20PX;
+
+ }
+ .text311{
+    width: 115.43183135986328px;
+height: 48.72282028198242px;
+angle: 0 deg;
+opacity: 1;
+top: 17.71px;
+left: 14.33px;
+
+
+ }
+ .text311text{
+    width: 81.48129272460938px;
+height: 14px;
+angle: 0 deg;
+opacity: 1;
+top: 17.71px;
+left: 14.33px;
+
+ }
+ .text311number{
+    width: 44.5129280090332;
+height: 24;
+angle: 0 deg;
+opacity: 1;
+top: 31.46px;
+left: 185.81px;
+font-weight: 600;
+
+font-size: 15.84px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+
+ }
+ .text311text2{
+    width: 115.43183135986328px;
+height: 11px;
+opacity: 1;
+top: 55.6px;
+left: 185.81px;
+font-weight: 600;
+
+ }
+ .text311icondiv{
+   width: 33.95054244995117px;
+height: 30.178255081176758px;
+angle: 0 deg;
+opacity: 1;
+top: 26.93px;
+left: 295.2px;
+gap: 7.54px;
+border-radius: 5.46px;
+padding-top: 7.54px;
+padding-right: 9.05px;
+padding-bottom: 7.54px;
+padding-left: 9.05px;
+ 
+ }
+ .text311icon{
+    width: 15.089128494262695px;
+height: 15.089128494262695px;
+opacity: 1;margin-top: 5px;
+
+    
+ }
+ .newlisting{
+    width: 344px;
+height: 1297px;
+angle: 0 deg;
+opacity: 1;
+top: 424px;
+left: 16px;
+display: block;
+ }
+ .newlistingtext{
+    width: 103px;
+height: 38px;
+angle: 0 deg;
+opacity: 1;
+top: 14px;
+left: 19px;
+font-family: Poppins;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 37.65px;
+letter-spacing: 0%;
+
+
+ }
+ .newlistingtext2{
+    width: 78px;
+height: 22px;
+angle: 0 deg;
+opacity: 1;
+top: 17px;
+left: 264px;
+font-family: Nunito;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+
+
+ }
+ .cards{
+    display: block;
+ }
+ .newlisting11   {
+    width: 303.2795715332031px;
+height: 363.9354553222656px;
+angle: 0 deg;
+opacity: 1;
+top: 68.8px;
+left: 18.82px;
+
+ }
+ .newlisting11image{
+    width: 303.2795715332031px;
+height: 206.02093505859375px;
+angle: 0 deg;
+opacity: 1;
+border-top-left-radius: 15.69px;
+border-top-right-radius: 15.69px;
+
+ }
+ .newlisting11imageicon{
+    width: 30.32795524597168px;
+height: 30.32795524597168px;
+angle: 0 deg;
+opacity: 1;
+top: 86.58px;
+left: 278.18px;
+gap: 8.67px;
+border-radius: 15.16px;
+padding: 1.73px;
+background: rgba(225, 221, 236, 1);
+
+ }
+  .newlisting11div2{width: 279.2263488769531px;
+height: 88.11383056640625px;
+angle: 0 deg;
+opacity: 1;
+gap: 5.23px;
+margin-top: 5px;
+
+  }
+   .newlisting11div21{
+    width: 279.2734375px;
+height: 32.41954040527344px;
+angle: 0 deg;
+opacity: 1;
+gap: 110.85px;
+
+   }
+   .newlisting11div21text{
+    width: 136px;
+height: 29px;
+angle: 0 deg;
+opacity: 1;
+font-family: Poppins;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 15.69px;
+leading-trim: NONE;
+line-height: 28.24px;
+letter-spacing: 0%;
+text-align: center;
+
+
+   }
+   .newlisting11div21icondiv{width: 32.41954040527344px;
+height: 32.41954040527344px;
+angle: 0 deg;
+opacity: 1;
+   }
+    .newlisting11div21icon{
+        width: 29.717906951904297px;
+height: 28.367095947265625px;
+angle: 0 deg;
+opacity: 1;
+top: 2.03px;
+left: 1.35px;
+
+    }
+    .newlisting11div22div{
+width: 155px;
+height: 28.236371994018555px;
+angle: 0 deg;
+opacity: 1;
+gap: 18.82px;
+
+    }
+    .newlisting11div22{
+width: 155px;
+height: 29px;
+opacity: 1;
+color: rgba(50, 24, 118, 1);
+
+
+
+    }
+
+      .newlisting11dicon{
+       width: 5.227963447570801px;
+height: 5.227963447570801px;
+angle: 0 deg;
+opacity: 1;
+top: 4.18px;
+left: 5.75px;
+
+      }
+        .newlisting11div24text{
+            width: 190px;
+height: 17px;
+angle: 0 deg;
+opacity: 1;
+font-family: Nunito;
+font-weight: 400;
+font-style: Regular;
+font-size: 12.55px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+
+        }
+        .viewdetails{
+width: 275.0431823730469px;
+height: 36.60270690917969px;
+angle: 0 deg;
+opacity: 1;
+gap: 10.46px;
+border-radius: 9.41px;
+padding: 10.46px;
+
+        }
+         .viewdetailstext{
+    width: 72px;
+height: 17px;
+angle: 0 deg;
+opacity: 1;
+font-family: Nunito;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 12.55px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+
+
+
+    }
+ }
